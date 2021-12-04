@@ -11,6 +11,6 @@ My citation details are:
 
 Name:  Christina Dinh Nguyen
 
-Affiliation and title:  Master of Information candidate, Faculty of Infomration, University of Toronto
+Affiliation and title:  Master of Information candidate, Faculty of Information, University of Toronto
           
 ORCID: https://orcid.org/0000-0003-0938-9836
