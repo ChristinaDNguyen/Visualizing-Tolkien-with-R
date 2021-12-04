@@ -8,7 +8,11 @@ Thank you, and have fun with computational literary analysis!
 
 
 My citation details are:
+
 Name:                   Christina Dinh Nguyen
+
 Affiliation and title:  University of Toronto
+
                         Master of Information candidate
+                        
                         Faculty of Information
