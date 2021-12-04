@@ -6,11 +6,11 @@ When using this code for your own projects, please fork the repo.
 Thank you, and have fun with computational literary analysis!
 
 
-
+_____________________________________________
 My citation details are:
 
-Name:                   Christina Dinh Nguyen
+Name:  Christina Dinh Nguyen
 
-Affiliation and title:  University of Toronto
-                        Master of Information candidate
-                        Faculty of Information
+Affiliation and title:  Master of Information candidate, Faculty of Infomration, University of Toronto
+          
+ORCID: https://orcid.org/0000-0003-0938-9836
