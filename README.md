@@ -1,5 +1,5 @@
 # VisualizingTolkienwithR
-This is the repository for my open-source code for the Visualizing Tolkien project. Please respect my intellectual property in this project by acknowledging me when you use my code. 
+This is the repository for my open-source code for the Visualizing Tolkien project. Please respect my intellectual property in this project by acknowledging me when you use my code. All conditions are listed in the Licence file in this repo.
 
 When using this code for your own projects, please fork the repo.
 
